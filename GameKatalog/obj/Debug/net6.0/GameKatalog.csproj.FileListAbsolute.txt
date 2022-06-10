@@ -1,0 +1,15 @@
+C:\Users\Night_Fox\source\repos\GameKatalog\GameKatalog\bin\Debug\net6.0\GameKatalog.exe
+C:\Users\Night_Fox\source\repos\GameKatalog\GameKatalog\bin\Debug\net6.0\GameKatalog.deps.json
+C:\Users\Night_Fox\source\repos\GameKatalog\GameKatalog\bin\Debug\net6.0\GameKatalog.runtimeconfig.json
+C:\Users\Night_Fox\source\repos\GameKatalog\GameKatalog\bin\Debug\net6.0\GameKatalog.dll
+C:\Users\Night_Fox\source\repos\GameKatalog\GameKatalog\bin\Debug\net6.0\GameKatalog.pdb
+C:\Users\Night_Fox\source\repos\GameKatalog\GameKatalog\obj\Debug\net6.0\GameKatalog.csproj.AssemblyReference.cache
+C:\Users\Night_Fox\source\repos\GameKatalog\GameKatalog\obj\Debug\net6.0\GameKatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Night_Fox\source\repos\GameKatalog\GameKatalog\obj\Debug\net6.0\GameKatalog.AssemblyInfoInputs.cache
+C:\Users\Night_Fox\source\repos\GameKatalog\GameKatalog\obj\Debug\net6.0\GameKatalog.AssemblyInfo.cs
+C:\Users\Night_Fox\source\repos\GameKatalog\GameKatalog\obj\Debug\net6.0\GameKatalog.csproj.CoreCompileInputs.cache
+C:\Users\Night_Fox\source\repos\GameKatalog\GameKatalog\obj\Debug\net6.0\GameKatalog.dll
+C:\Users\Night_Fox\source\repos\GameKatalog\GameKatalog\obj\Debug\net6.0\refint\GameKatalog.dll
+C:\Users\Night_Fox\source\repos\GameKatalog\GameKatalog\obj\Debug\net6.0\GameKatalog.pdb
+C:\Users\Night_Fox\source\repos\GameKatalog\GameKatalog\obj\Debug\net6.0\GameKatalog.genruntimeconfig.cache
+C:\Users\Night_Fox\source\repos\GameKatalog\GameKatalog\obj\Debug\net6.0\ref\GameKatalog.dll
